@@ -2,8 +2,8 @@
 
 ## Developers info
 
-* Base theme: Cornerstone 6.14.0
-* Node: 18.15.0
+* Base theme: <a href="https://themes.halothemes.com/documents/bigcommerce-annie-garden/" target="_blank">Annie's Garden 1.2.1</a>
+* Node: 20.16.0
 * Command: stencil start
 
 ## Project pages designed
@@ -37,3 +37,7 @@ Custom widgets are developed by Coalition Technologies according to the mockups.
 
 They can be used in the Page Builder. You can find them in the Page Builder under the Custom Widgets section.
 ![custom-widgets.png](img/custom-widgets.png)
+
+## WYSIWYG Editor
+The WYSIWYG (What You See Is What You Get) editor is a powerful tool that allows you to create and edit content in a visual way. It provides a user-friendly interface that lets you format text, add images, create links, and more.
+![wsyiwyg.png](img/wsyiwyg.png)

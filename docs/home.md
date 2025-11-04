@@ -3,6 +3,7 @@ The homepage is the main page of the website. It is the first page that the user
 
 ## Hero Banner
 
+![hero-banner.png](img/hero-banner.png)
 
 The Hero Banner Carousel is using the built-in BigCommerce Home Page Carousel.
 Please follow the <a href="https://support.bigcommerce.com/s/article/Carousel?language=en_US" target="_blank">BigCommerce documentation</a> to see how to manage it.
@@ -10,36 +11,51 @@ Please note that the styles are in the theme and should not be changed unless yo
 
 ## Featured Products
 
+![featured.png](img/featured.png)
 
 The Featured Products panel displays products that you have marked as Featured.
 To mark a product as Featured, simply go to the product listing via Products->View, then click on the star symbol on the product you want to display.
 
+If your dashboard looks different, please follow the <a href="https://support.bigcommerce.com/s/article/Product-Panels?language=en_US#featured-products" target="_blank">BigCommerce documentation</a> to see how to manage it.
+
 ![featured-inst.png](img/featured-inst.png)
 
-## Full Banner
+## Best Sellers
 
+![bestsellers.png](img/bestsellers.png)
 
-The full Banner is made using a BigCommerce widget. You can change it in the [Page Builder](index.md/#page-builder).
+The Best Sellers panel displays the store's top-selling products dynamically. It cannot be manually configured. You can read more about it in the <a href="https://support.bigcommerce.com/s/article/Product-Panels?language=en_US#top-sellers" target="_blank">BigCommerce documentation</a>.
 
-You can change the text by clicking on it
+## Shop by Category
 
+![bycategory.png](img/bycategory.png)
 
+The Shop by Category section is made using a custom widget called Home Image Card. You can change the content in the [Page Builder](index.md/#page-builder).
 
-You can toggle the visibility, add more slides, change the image, and more by clicking on the options on the left side.
-Please note that due to the custom design of the theme, some options may not work as expected.
+You can change the text by clicking on it and changing the settings on the left panel. You can add more cards, change the image, and text for each one.
 
+![bycategory-inst.png](img/bycategory-inst.png)
 
+By clicking on the ellipsis on the top right corner of the left panel, you can change the section settings, like title, and style.
 
-## Small Banner
+![bycategory-inst2.png](img/bycategory-inst2.png)
 
+![bycategory-inst3.png](img/bycategory-inst3.png)
 
-This is the custom widget called 'cta'. You need to select the style CTA to display the style like this one.
+## Shop by Brand
 
+![bybrand.png](img/bybrand.png)
 
+The Shop by Brand section is made using the same custom widget called Home Image Card. You can follow the same steps above.
 
-## Logo List
+## About Us
 
+![aboutus.png](img/aboutus.png)
 
-This is the custom widget called 'logos'. You can add multiple logos, delete, duplicate, rearrange, and more.
+The About Us section is made using a custom widget with an HTML block from the theme called Parralax Banner. You can ready more instructions and even generate a new code following the <a href="https://themes.halothemes.com/documents/bigcommerce-annie-garden/#setting_up_homepage_content:~:text=forget%20click%20Save.-,Block%3A%20Parralax%20Banner,-To%20show%20Parralax" target="_blank">theme's documentation</a>.
 
+## Our Retailers
 
+## Recent Blog Posts
+
+## Newsletter Signup
