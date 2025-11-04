@@ -1,0 +1,49 @@
+:root {
+    --var-primary: #225A8F;
+    --var-primary-dark: #163A5C;
+    --var-secondary: #C7251C;
+    --var-dark: #393939;
+    --var-light: #f2f2f2;
+}
+
+.wy-side-nav-search {
+    background-color: var(--var-primary-dark);
+    margin-bottom: 0;
+}
+
+.wy-nav-side {
+    background-color: var(--var-light);
+}
+
+.rst-versions .rst-current-version {
+    background-color: var(--var-primary);
+}
+
+.wy-nav-content a {
+    color: var(--var-primary);
+}
+
+.wy-menu-vertical a {
+    color: var(--var-dark);
+}
+
+.wy-menu-vertical a:hover {
+    background-color: var(--var-primary);
+    color: var(--var-light);
+}
+
+.wy-menu-vertical li.toctree-l1.current>a {
+    background-color: var(--var-secondary);
+    color: var(--var-light);
+    border: 0;
+}
+
+.wy-menu-vertical li.current ul a {
+    background-color: var(--var-dark);
+    color: var(--var-light);
+}
+
+.wy-menu-vertical li.current ul a:hover {
+    background-color: var(--var-secondary);
+    color: var(--var-light);
+}
