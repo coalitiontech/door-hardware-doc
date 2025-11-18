@@ -56,6 +56,9 @@ The About Us section is made using a custom widget with an HTML block from the t
 
 ## Our Retailers
 
+![our-retailers.png](img/our-retailers.png)
+The Our Retailers section is made using a custom widget called Logo Carousel. You can change the content in the [Page Builder](index.md/#page-builder).
+
 ## Recent Blog Posts
 
 ## Newsletter Signup

@@ -1,4 +1,4 @@
-# Welcome to PROJECT theme by Coalition Technologies documentation
+# Welcome to DoorHardware theme by Coalition Technologies documentation
 
 ## Developers info
 
