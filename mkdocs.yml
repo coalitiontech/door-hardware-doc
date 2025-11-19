@@ -5,6 +5,7 @@ nav:
   - Category: category.md
   - Product: product.md
   - Static: static.md
+  - Contact Us: contact.md
   - Mega Menu: menu.md
   - Other: other.md
 theme: readthedocs

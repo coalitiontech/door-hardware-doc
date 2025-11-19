@@ -47,3 +47,7 @@
     background-color: var(--var-secondary);
     color: var(--var-light);
 }
+
+.rst-content .section ol li,.rst-content .section ul li{
+    margin-bottom: 18px;
+}
