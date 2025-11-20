@@ -55,6 +55,8 @@
               <ul class="current">
                 <li class="toctree-l1 current"><a class="reference internal current" href="#">Product</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#product-tooltip">Product Tooltip</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#free-shipping">Free Shipping</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#related-products-sub-text">Related Products Sub Text</a>
@@ -109,6 +111,27 @@
 <p>The product page displays the information about the product. It includes the product name, description, price, options, and an image of the product.</p>
 <p>Most of the product page is built with the default BigCommerce settings, for more information regarding how to add a product in Bigcommerce with the V2 settings, refer to this <a href="https://support.bigcommerce.com/s/article/Adding-Products-v2?language=en_US" target="_blank">documentation</a>. </p>
 <p>There are some parts on the product page that need to follow specific guidelines.</p>
+<h2 id="product-tooltip">Product Tooltip</h2>
+<p><img alt="product-tooltips.png" src="../img/product-tooltips.png" /></p>
+<p>Product options tooltips are managed through product custom fields in BigCommerce. By adding or editing a product's custom field, you can display additional information as a tooltip on the product page. You can follow below step:</p>
+<ol>
+<li>
+<p>You can create/add new custom field using <a href="https://support.bigcommerce.com/s/article/Custom-Fields?language=en_US#add" target="_blank">this</a> article.</p>
+</li>
+<li>
+<p>You can add custom field name and value per below:</p>
+<ol>
+<li>Custom Field Name: <code>tooltip|Your Product Options Name</code></li>
+<li>Custom Field Value: <code>Add your tooltip text</code></li>
+<li>Example :- Name: <code>tooltip|backset</code> and Value: <code>To Determine The Backset Needed Measure From The Edge Of Your Door To The Center Of The 2-1/8 Inch Diameter Hole In The Face Of Your Door</code></li>
+<li>You can review below screenshot 
+<img alt="product-tooltips-1.png" src="../img/product-tooltips-1.png" /></li>
+</ol>
+</li>
+<li>
+<p>Click on the 'Save' button</p>
+</li>
+</ol>
 <h2 id="free-shipping">Free Shipping</h2>
 <p><img alt="product-free-shipping.png" src="../img/product-free-shipping.png" /></p>
 <ol>
