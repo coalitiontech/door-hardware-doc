@@ -5,6 +5,23 @@ Most of the product page is built with the default BigCommerce settings, for mor
 
 There are some parts on the product page that need to follow specific guidelines.
 
+## Product Tooltip
+
+![product-tooltips.png](img/product-tooltips.png)
+
+Product options tooltips are managed through product custom fields in BigCommerce. By adding or editing a product's custom field, you can display additional information as a tooltip on the product page. You can follow below step:
+
+1. You can create/add new custom field using <a href="https://support.bigcommerce.com/s/article/Custom-Fields?language=en_US#add" target="_blank">this</a> article.
+
+2. You can add custom field name and value per below:
+    1. Custom Field Name: `tooltip|Your Product Options Name`
+    2. Custom Field Value: `Add your tooltip text`
+    3. Example :- Name: `tooltip|backset` and Value: `To Determine The Backset Needed Measure From The Edge Of Your Door To The Center Of The 2-1/8 Inch Diameter Hole In The Face Of Your Door`
+    4. You can review below screenshot 
+    ![product-tooltips-1.png](img/product-tooltips-1.png)
+
+3. Click on the 'Save' button
+
 
 ## Free Shipping
 ![product-free-shipping.png](img/product-free-shipping.png)
