@@ -8,6 +8,7 @@ nav:
   - Contact Us: contact.md
   - Mega Menu: menu.md
   - Other: other.md
+  - Footer: footer.md
 theme: readthedocs
 extra_css:
   - style.css
