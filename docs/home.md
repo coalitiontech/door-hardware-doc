@@ -57,7 +57,9 @@ The About Us section is made using a custom widget with an HTML block from the t
 ## Our Retailers
 
 ![our-retailers.png](img/our-retailers.png)
-The Our Retailers section is made using a custom widget called Logo Carousel. You can change the content in the [Page Builder](index.md/#page-builder).
+
+The Our Retailers section is made using a custom widget with an HTML block from the theme called `Block: Brand Collection`. You can ready more instructions and even generate a new code following the <a href="https://themes.halothemes.com/documents/bigcommerce-annie-garden/#home_banner_0_block" target="_blank">theme's documentation</a>.
+
 
 ## Recent Blog Posts
 ![home-blog.png](img/home-blog.png)
