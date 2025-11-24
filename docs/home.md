@@ -76,3 +76,4 @@ The Recent Blog sections developed by Halothemes. For further details and guidan
 
 3. This section is made using a built-in widget called `Text`. You can change the content in the [Page Builder](index.md/#page-builder).
 ![home-newsletter-2.png](img/home-newsletter-2.png)
+![home-newsletter-3.png](img/home-newsletter-3.png)
