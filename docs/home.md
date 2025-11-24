@@ -60,5 +60,17 @@ The About Us section is made using a custom widget with an HTML block from the t
 The Our Retailers section is made using a custom widget called Logo Carousel. You can change the content in the [Page Builder](index.md/#page-builder).
 
 ## Recent Blog Posts
+![home-blog.png](img/home-blog.png)
+
+The Recent Blog sections developed by Halothemes. For further details and guidance, please review the <a href="https://themes.halothemes.com/documents/bigcommerce-annie-garden/#home_recent_posts" target="_blank">Halothemes documentation</a>.
 
 ## Newsletter Signup
+![home-newsletter.png](img/home-newsletter.png)
+
+1. The Newsletter sections developed by Halothemes. For further details and guidance, please review the <a href="https://themes.halothemes.com/documents/bigcommerce-annie-garden/#setting_subscription_form" target="_blank">Halothemes documentation</a>.
+
+2. We used the built-in BigCommerce newsletter summary for sub text. For more information see the <a href="https://support.bigcommerce.com/s/article/Collecting-Newsletter-Subscriptions?language=en_US#newsletter" target="_blank">BigCommerce documentation</a>.
+![home-newsletter-1.png](img/home-newsletter-1.png)
+
+3. This section is made using a built-in widget called `Text`. You can change the content in the [Page Builder](index.md/#page-builder).
+![home-newsletter-2.png](img/home-newsletter-2.png)
